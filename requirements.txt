@@ -1,0 +1,6 @@
+crewai
+langchain
+langchain-openai
+streamlit
+openai
+tavily-python
